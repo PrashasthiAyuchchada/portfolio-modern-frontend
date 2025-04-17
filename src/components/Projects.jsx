@@ -5,24 +5,24 @@ import bookMSImage from "../assets/admin-dashboard.png";
 const projects = [
   {
     id: 1,
-    name: "Employee MS",
+    name: "c-b-c-backend",
     technologies: "MERN Stack",
     image: employeeMSImage,
-    github: "https://github.com/YouafKhan1",
+    github: "https://github.com/PrashasthiAyuchchada/c-b-c-backend",
   },
   {
     id: 2,
-    name: "Blog App",
+    name: "c-b-c-frontend",
     technologies: "MERN Stack",
     image: bookMSImage,
-    github: "https://github.com/YouafKhan1",
+    github: "https://github.com/PrashasthiAyuchchada/c-b-c-frontend",
   },
   {
     id: 3,
-    name: "Book MS",
+    name: "portfolio-modern-frontend",
     technologies: "MERN Stack",
     image: employeeMSImage,
-    github: "https://github.com/YouafKhan1",
+    github: "https://github.com/PrashasthiAyuchchada/portfolio-modern-frontend",
   },
 ];
 
