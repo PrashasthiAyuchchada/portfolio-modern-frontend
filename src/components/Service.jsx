@@ -23,8 +23,8 @@ const services = [
   },
   {
     id: 5,
-    title: "Content Writing",
-    description: "Writing content for your business and companies.",
+    title: "Search Engine Optimizing",
+    description: "Boosting your website’s ranking on search engines.",
   },
   {
     id: 6,

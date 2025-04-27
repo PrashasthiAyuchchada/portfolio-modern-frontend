@@ -1,5 +1,5 @@
 import React from "react";
-import AboutImage from "../assets/aboutme-image.png";
+import AboutImage from "../assets/aboutme-image.jpg";
 
 const About = () => {
   return (
@@ -38,7 +38,7 @@ const About = () => {
                 <div className="grow bg-gray-800 rounded-full h-2.5">
                   <div
                     className="bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full 
-                    transform transition-transform duration-300 hover:scale-105 w-11/12"
+                    transform transition-transform duration-300 hover:scale-105 w-9/12"
                   ></div>
                 </div>
               </div>
@@ -58,14 +58,14 @@ const About = () => {
                 <div>
                     <h3 className="text-2xl font-bold text-transparent bg-clip-text 
                 bg-gradient-to-r from-green-400 to-blue-500">
-                        3+
+                        2+
                     </h3>
                     <p>Years Experience</p>
                 </div>
                 <div>
                     <h3 className="text-2xl font-bold text-transparent bg-clip-text 
                 bg-gradient-to-r from-green-400 to-blue-500">
-                        50+
+                        10+
                     </h3>
                     <p>Projects Completed</p>
                 </div>
